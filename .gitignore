@@ -1,0 +1,14 @@
+ai_memory_app/build/
+ai_memory_app/.dart_tool/
+ai_memory_app/.packages
+ai_memory_app/android/
+ai_memory_app/ios/
+ai_memory_app/macos/
+ai_memory_app/windows/
+ai_memory_app/linux/
+ai_memory_app/web/
+ai_memory_app/.idea/
+ai_memory_app/*.iml
+ai_memory_app/.vscode/
+ai_memory_app/.flutter-plugins
+ai_memory_app/.flutter-plugins-dependencies
